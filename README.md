@@ -44,7 +44,7 @@ Map Scene Support
 - [ ] sp_a2_bts4
 - [ ] sp_a2_bts5
 - [ ] sp_a2_bts6
-- [ ] sp_a2_core
+- [ ] sp_a2_core (works up until the wheatley body part)
 - [ ] sp_a3_00
 - [ ] sp_a3_01
 - [ ] sp_a3_03
@@ -79,6 +79,7 @@ Entity Stuff
 - [ ] FrankenTurret
 Misc Stuff
 - [x] Gel/Paint System (buggy as hell but will be added into a commit soon)
+- [ ] World Portals
 
 # Things to note
-I wouldn't reccomend using this fork for anything practical and only to help fix up stuff
+I wouldn't reccomend using this fork for anything practical and only to help fix up stuff. if you do want a "stable" working version of this, use Pop's repo
