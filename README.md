@@ -7,3 +7,6 @@ Current things that are working:
 - [x] Light bridge (Actual proper rendering, even if bugged a little)
 - [x] Gel/Paint System (buggy as hell but will be added into a commit soon
 
+
+# Things to note
+I wouldn't reccomend using this fork for anything practical and only to help fix up stuff
