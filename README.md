@@ -73,6 +73,7 @@ Map Scene Support
 - [ ] sp_a4_finale4
 
 Entity Stuff
+- [ ] Portals (i am attempting to make a portal entity that functions with the portal 2 maps and is easily to read code wise and will also be simple to debug)
 - [x] Light bridge (Actual proper rendering, even if bugged a little)
 - [ ] Tractor Beam
 - [ ] FrankenTurret
