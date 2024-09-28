@@ -1,4 +1,6 @@
-# this will be a fixed version of pop's wip portal 2 gmod support!
+# P2Mod
+
+This will be a fixed version of Pop's wip portal 2 gmod support!
 
 Current things that are working:
 - [x] Stuff from the previous forks
